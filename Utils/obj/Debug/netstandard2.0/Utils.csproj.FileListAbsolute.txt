@@ -1,8 +1,0 @@
-C:\Users\Thomas\Documents\repos\dotnet-utils\Utils\bin\Debug\netstandard2.0\Utils.deps.json
-C:\Users\Thomas\Documents\repos\dotnet-utils\Utils\bin\Debug\netstandard2.0\Utils.dll
-C:\Users\Thomas\Documents\repos\dotnet-utils\Utils\bin\Debug\netstandard2.0\Utils.pdb
-C:\Users\Thomas\Documents\repos\dotnet-utils\Utils\obj\Debug\netstandard2.0\Utils.csprojAssemblyReference.cache
-C:\Users\Thomas\Documents\repos\dotnet-utils\Utils\obj\Debug\netstandard2.0\Utils.AssemblyInfoInputs.cache
-C:\Users\Thomas\Documents\repos\dotnet-utils\Utils\obj\Debug\netstandard2.0\Utils.AssemblyInfo.cs
-C:\Users\Thomas\Documents\repos\dotnet-utils\Utils\obj\Debug\netstandard2.0\Utils.dll
-C:\Users\Thomas\Documents\repos\dotnet-utils\Utils\obj\Debug\netstandard2.0\Utils.pdb
